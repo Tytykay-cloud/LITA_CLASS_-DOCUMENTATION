@@ -1,15 +1,15 @@
 # LITA_CLASS_-DOCUMENTATION
-{Project Overview}(#project-overview)
+[Project Overview](#project-overview)
 
-{Data Sources}(#data-sources)
+[Data Sources](#data-sources)
 
-{Tools Used}(#tools-used)
+[Tools Used](#tools-used)
 
-{Data cleaning And Preparation}(#data cleaning and preparation)
+[Data cleaning And Preparation](#data-cleaningandpreparation)
 
- {Exploratory Data Analysis}(#exploratory-dataanalysis)
+ [Exploratory Data Analysis](#exploratory-dataanalysis)
  
- {Data Analysis}(#data-analysis)
+ [Data Analysis](#data-analysis)
 
 ### Project Topic: The Data analysis Process
 ---
